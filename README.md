@@ -37,6 +37,8 @@ proyectos donde realmente se aprende.
 
 Proyecto privado.\
 Responsabilidades destacadas: - Desarrollo backend continuo con
-NestJS. - Sistema global de mapeo basado en **hexágonos de 3.55 km²**
-usando PostGIS. - Integración y diseño de arquitectura limpia y
+NestJS. 
+- Sistema global de mapeo basado en **hexágonos de 3.55 km²**
+usando PostGIS.
+- Integración y diseño de arquitectura limpia y
 escalable.
