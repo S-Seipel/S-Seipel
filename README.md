@@ -23,8 +23,7 @@ proyectos donde realmente se aprende.
 
 -   Construyo **sistemas backend robustos**, no solo APIs.
 -   Me gusta mejorar constantemente y aprender herramientas nuevas.
--   Profesional, comprometido y ambicioso, pero con un estilo relajado y
-    simple.
+-   Trabajo con responsabilidad y siempre busco mejorar, manteniendo una forma de trabajar clara y enfocada.
 -   Disfruto tanto la programación que terminé creando mi propio entorno
     en **Neovim**.
 -   Muchas de mis contribuciones son privadas, pero acá comparto lo
