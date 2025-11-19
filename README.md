@@ -36,7 +36,8 @@ proyectos donde realmente se aprende.
 ### **Propulse (trabajo actual)**
 
 Proyecto privado.\
-Responsabilidades destacadas: - Desarrollo backend continuo con
+Responsabilidades destacadas: 
+- Desarrollo backend continuo con
 NestJS. 
 - Sistema global de mapeo basado en **hexágonos de 3.55 km²**
 usando PostGIS.
