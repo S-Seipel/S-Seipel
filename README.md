@@ -1,6 +1,43 @@
-### Holaa
+# 💻 Santiago Seipel --- Backend Developer
 
-Soy desarrollador backend con 2 años de experiencia en PHP (Laravel), bases de datos relacionales (MySQL, PostgreSQL/PostGIS) y metodologías ágiles.
-Me motiva crear soluciones que optimicen procesos y generen impacto, combinando curiosidad, lógica y creatividad.
+Soy **backend developer** especializado en **NestJS**, **TypeScript**,
+**PostgreSQL/PostGIS** y **GraphQL**.\
+Arranqué a trabajar como programador a los **17 años**, y desde entonces
+me enfoqué en escribir código sólido, escalable y fácil de mantener.\
+Me gustan las tecnologías eficientes, los desafíos difíciles y los
+proyectos donde realmente se aprende.
 
-Me siento cómodo trabajando en equipo, aprendiendo y compartiendo ideas. Actualmente amplío mis conocimientos hacia frontend con NextJS y me proyecto creciendo hacia un perfil semi senior, con interés en innovación e inteligencia artificial.
+------------------------------------------------------------------------
+
+## 🚀 Tecnologías principales
+
+-   **NestJS / TypeScript**
+-   **PostgreSQL + PostGIS**
+-   **GraphQL**
+-   Docker · Redis · Git · Linux
+-   Neovim (como entorno principal)
+
+------------------------------------------------------------------------
+
+## 🧠 Sobre mí como desarrollador
+
+-   Construyo **sistemas backend robustos**, no solo APIs.
+-   Me gusta mejorar constantemente y aprender herramientas nuevas.
+-   Profesional, comprometido y ambicioso, pero con un estilo relajado y
+    simple.
+-   Disfruto tanto la programación que terminé creando mi propio entorno
+    en **Neovim**.
+-   Muchas de mis contribuciones son privadas, pero acá comparto lo
+    visible.
+
+------------------------------------------------------------------------
+
+## 📌 Proyectos destacados
+
+### **Propulse (trabajo actual)**
+
+Proyecto privado.\
+Responsabilidades destacadas: - Desarrollo backend continuo con
+NestJS. - Sistema global de mapeo basado en **hexágonos de 3.55 km²**
+usando PostGIS. - Integración y diseño de arquitectura limpia y
+escalable.
