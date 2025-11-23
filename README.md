@@ -3,10 +3,9 @@
 ### Backend Developer \| NestJS · TypeScript · PostgreSQL
 
 I'm a backend developer focused on building **robust, scalable APIs**
-and clean architectures.\
-Comencé mi carrera profesional a los 17 años y desde entonces me enfoqué
-en buenas prácticas, optimización y resolver problemas reales con
-software confiable.
+and clean architectures. I started my professional career at 17 and have
+since maintained a strong focus on best practices, optimization, and
+solving real-world problems with reliable software.
 
 ------------------------------------------------------------------------
 
@@ -17,19 +16,19 @@ software confiable.
 -   SQL optimization with **PostgreSQL + PostGIS**
 -   ORM experience: **TypeORM · Prisma**
 -   Clean Architecture · SOLID · Microservices
--   Frontend básico con **Next.js**
+-   Basic frontend development with **Next.js**
 
 ------------------------------------------------------------------------
 
 ## 🧩 Experience
 
 -   **Backend Developer -- Propulse (2024 -- Present)**\
-    Desarrollo de APIs, optimización de SQL, arquitectura limpia,
-    endpoints, filtros, seguridad y trabajo en equipo con Scrum.
+    API development, SQL optimization, clean architecture, endpoints,
+    filters, security, and team collaboration under Scrum.
 
 -   **Fullstack Developer -- Propulse (2024)**\
-    Integraciones externas, modelado de bases de datos y validaciones en
-    Laravel.
+    External integrations, SQL database modeling, and backend
+    validations using Laravel.
 
 ------------------------------------------------------------------------
 
@@ -38,15 +37,15 @@ software confiable.
 **Backend:** NestJS · Node.js · TypeScript · REST · GraphQL\
 **Databases:** PostgreSQL · PostGIS\
 **ORM:** TypeORM · Prisma\
-**Infra:** Docker · Linux · Git\
-**Frontend:** Next.js (básico)
+**Infrastructure:** Docker · Linux · Git\
+**Frontend:** Next.js (basic)
 
 ------------------------------------------------------------------------
 
 ## 📚 Education
 
 -   **Technical School No. 3** -- Computer Science Track\
-    *2019 -- 2025 (last year in progress)*
+    *2019 -- 2025 (final year in progress)*
 
 ------------------------------------------------------------------------
 
@@ -54,12 +53,12 @@ software confiable.
 
 ### 🔹 Braille Printer
 
-Software para convertir texto a Braille e imprimirlo, integrando
-hardware + software.
+Software that converts text to Braille and prints it, integrating both
+hardware and software.
 
-### 🔹 OIA -- Argentine Informatics Olympiad
+### 🔹 Argentine Informatics Olympiad (OIA)
 
-Competidor en problemas algorítmicos.
+Participation in competitive problem-solving and algorithmic challenges.
 
 ------------------------------------------------------------------------
 
