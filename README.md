@@ -26,7 +26,7 @@ solving real-world problems with reliable software.
     API development, SQL optimization, clean architecture, endpoints,
     filters, security, and team collaboration under Scrum.
 
--   **Fullstack Developer -- Propulse (2024)**\
+-   **Fullstack Developer -- Dragodevs (2024)**\
     External integrations, SQL database modeling, and backend
     validations using Laravel.
 
@@ -34,7 +34,7 @@ solving real-world problems with reliable software.
 
 ## 🛠 Tech Stack
 
-**Backend:** NestJS · Node.js · TypeScript · REST · GraphQL\
+**Backend:** NestJS · Laravel · Node.js · TypeScript · REST · GraphQL\
 **Databases:** PostgreSQL · PostGIS\
 **ORM:** TypeORM · Prisma\
 **Infrastructure:** Docker · Linux · Git\
