@@ -9,7 +9,7 @@ solving real-world problems with reliable software.
 
 ------------------------------------------------------------------------
 
-## 🚀 What I Do
+## 💻 What I Do
 
 -   Backend development with **NestJS, Node.js & TypeScript**
 -   REST APIs, modular architectures, business logic & authentication
